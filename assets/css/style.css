@@ -1,0 +1,16 @@
+.bg-color{
+    background: rgb(86, 136, 86);
+}
+.bg-seller{
+    background: rgb(111, 226, 169);
+}
+.bg-footer{
+    background: rgb(206, 162, 250);
+}
+.roducttme img{
+    cursor: pointer;
+    transition: .5s linear;
+}
+.roducttme img:hover{
+    transition: scale(1.5);
+}
